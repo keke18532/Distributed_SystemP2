@@ -14,3 +14,5 @@ for i in range(0,len(lines)):
 		print('sent')
 	s.close()
 	
+
+	
